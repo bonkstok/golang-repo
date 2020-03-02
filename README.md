@@ -1,2 +1,2 @@
-# golang-repo
-repo to keep track of trying to learn some golang
+Repo to store some script / progress of my golang journey.
+Trying to write and improve. 
