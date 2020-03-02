@@ -1,5 +1,7 @@
 // just a sample script to deploy on openshift with s2i
 // gets the container hostname and keep priting 
+//deploy it like oc new-app golang~https://github.com/bonkstok/golang-repo --context-dir=openshift/hello-hostname
+// oc new-app https://github.com/bonkstok/golang-repo --context-dir=openshift/hello-hostname
 package main
 
 import (
