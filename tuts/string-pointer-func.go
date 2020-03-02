@@ -10,7 +10,7 @@ import (
 
 
 func main () {
-	var myString string = "Johnny"
+	var myString string = "Initial"
 
 	fmt.Println(&myString) //print address
 	strPoint(&myString)
