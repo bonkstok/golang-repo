@@ -1,0 +1,6 @@
+2020/04/27 23:11:42 Checking if input file exists: bank.csv
+2020/04/27 23:11:42 Input file 'bank.csv' exists, using it as input
+2020/04/27 23:12:03 Checking if input file exists: bank.scsv
+2020/04/27 23:12:03 File: 'bank.scsv' does not exist. Exiting
+2020/04/29 22:51:26 Checking if input file exists: bank.scsv
+2020/04/29 22:51:26 File: 'bank.scsv' does not exist. Exiting

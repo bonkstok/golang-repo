@@ -1,0 +1,2 @@
+Writing byte(s) to file
+Writing a string, cool
